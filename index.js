@@ -52,7 +52,7 @@ function f1(){
         teamA.style.backgroundColor = "rgb(10, 255, 140)";
         teamB.style.backgroundColor = "rgb(255, 100, 10)";
     }else if(t1<t2){
-        teamA.style.backgroundColor = "red";
+        teamA.style.backgroundColor = "rgb(255, 100, 10)";
         teamB.style.backgroundColor = "rgb(10, 255, 140)";
     }else{
         teamA.style.backgroundColor = "white";
